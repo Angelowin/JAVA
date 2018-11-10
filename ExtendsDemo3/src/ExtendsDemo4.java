@@ -1,0 +1,2 @@
+public class ExtendsDemo4 {
+}
